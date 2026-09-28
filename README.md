@@ -18,13 +18,4 @@ A comprehensive data analytics portfolio demonstrating advanced Microsoft Excel 
 - **Data Summarization:** Pivot Tables, Dynamic Calculated Fields, Slicers & Timelines.
 - **Visual Analytics:** Dynamic Dashboards, KPI Cards, Conditional Formatting, Interactive Charts.
 
----
 
-## 📁 Repository Contents
-- 📄 `[اسم_ملف_الإكسل].xlsx` - Main Excel data analysis workbook & dynamic dashboard.
-- 📜 `Advanced_Excel_Certificate.pdf` - TVTC Verified Course Completion Certificate.
-
----
-
-## 🚀 How to View
-Download the `.xlsx` files directly from this repository to interact with the slicers, charts, and data models locally in Microsoft Excel.
